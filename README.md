@@ -1,1 +1,1 @@
-# Exercicio-em-C---Cartas-do-Super-Trunfo
+super_trunfo.c
